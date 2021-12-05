@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://jose-trujillo.photos/sitemap.xml
